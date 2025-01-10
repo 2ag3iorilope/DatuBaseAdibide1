@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DatuBaseAdibide1</string>
+    <string name="StrKode">Kodea</string>
+    <string name="StrIzena">Izena</string>
+    <string name="Insertar">Insertar</string>
+    <string name="Eguneratu">Eguneratu</string>
+    <string name="Ezabatu">Ezabatu</string>
 </resources>
